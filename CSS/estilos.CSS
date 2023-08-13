@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+
+#contenedor {
+width: 100%;
+
+}	
+
+
+.PAG1 {
+  width: 100%px;
+  height: 831px;
+  background-image: url("../IMG/PAG1.JPG");
+}
+
+. {
+display: flex;
+align-items: left;
+justify-content: space-between;
+justify-content: left;
+height: 100px;
+}
+
+.iniciar {
+background-color: #9DCE05;
+text-decoration: none;
+padding: 5px 5px 5px 5px;
+font-size: 10pt;
+
+padding-top: 5px 5px 5px 5px;
+}
+
+.registrar {
+background-color: #9DCE05;
+text-decoration: none;
+padding: 5px 5px 5px 5px;
+font-size: 10pt;
+margin-top: 20;
+padding-top: 5px 5px 5px 5px;
+}
+
+#spc {
+display: flex;
+align-items: center;
+justify-content: space-between;
+justify-content: center;
+}
+
+.servicios {
+background-color: #6B9203;
+text-decoration: none;
+padding: 3px 3px 3px 3px;
+font-size: 17pt;
+padding-top: 3px 3px 3px 3px;
+}
+
+.proyectos {
+background-color: #87AF08;
+text-decoration: none;
+padding: 3px 3px 3px 3px;
+font-size: 17pt;
+padding-top: 3px 3px 3px 3px;
+}
+
+#bien {
+height: 299px; 
+padding-top: 90PX;
+line-height: 30px;
+}
+
+.bienv {
+	text-align:center;
+color: #26D399;
+color-border: #03281C;
+font-size: 60pt;
+}
+
+#inf { 
+width: 260px;
+height: 124px;
+line-height: 20px;
+float: center;
+}
+
+#info { 
+text-align: center;
+font-size: 30pt;
+}
